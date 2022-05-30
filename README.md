@@ -1,8 +1,8 @@
-👋 Kulo @cracktiest
-👀 Aku kasengsem ing embedded system
-🌱 Kulo nembe sinau babagan internet lan otomatisasi
-💞️ Kulo arep kolaborasi kanggo ngoptimalake kinerja mikrokontroler
-📫 Cara tekan email: rizkisaputrasembiring.rss@gmail.com
+-👋 Kulo @cracktiest
+-👀 Aku kasengsem ing embedded system
+-🌱 Kulo nembe sinau babagan internet lan otomatisasi
+-💞️ Kulo arep kolaborasi kanggo ngoptimalake kinerja mikrokontroler
+-📫 Cara tekan email: rizkisaputrasembiring.rss@gmail.com
 
 <!---
 cracktiest/cracktiest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
