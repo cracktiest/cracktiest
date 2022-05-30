@@ -1,7 +1,7 @@
-- 👋 Hai, aku @cracktiest
+- 👋 Kulo @cracktiest
 - 👀 Aku kasengsem ing embedded system
-- 🌱 Aku lagi sinau babagan internet lan otomatisasi
-- 💞️ Aku arep kolaborasi kanggo ngoptimalake kinerja mikrokontroler
+- 🌱 Kulo nembe sinau babagan internet lan otomatisasi
+- 💞️ Kulo arep kolaborasi kanggo ngoptimalake kinerja mikrokontroler
 - 📫 Cara tekan email: rizkisaputrasembiring.rss@gmail.com
 
 <!---
