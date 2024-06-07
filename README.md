@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rizki Saputra Sembiring
 ===============================================================================================================================================
 
-Im a Embedded and Robotic Engineer
+Im an Embedded and Robotic Engineer
 ----------------------------------
 
 * 🌍  I'm based in Bandung, Indonesia
 * ✉️  You can contact me at [rizkisaputrasembiring.rss@gmail.com](mailto:rizkisaputrasembiring.rss@gmail.com)
 * 🧠  I'm learning Internet of Things and Machine Learning
 * 🤝  I'm open to collaborating on Embedded, Robotics, and Data Science
-* ⚡  Im a tea lover, but dont tell anyone
+* ⚡  Stay debugging
 
 ### Skills
 
